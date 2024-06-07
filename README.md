@@ -1,4 +1,4 @@
-[![MasterHead](https://c1.wallpaperflare.com/path/836/993/134/code-coding-web-development-9be9254d5b96c71b9b1e577ac88db786.jpg)]
+![MasterHead](https://c1.wallpaperflare.com/path/836/993/134/code-coding-web-development-9be9254d5b96c71b9b1e577ac88db786.jpg)
 <h1 align="center">Hi 👋, I'm Imad Eddine El hadjmoussa</h1>
 <h3 align="center">Front-End Developer & Computer Science Student Based in Algeria</h3>
 
