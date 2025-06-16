@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imad Eddine El hadjmoussa</h1>
 <h3 align="center">Full Stack Developer & Computer Science Student Based in Algeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1717753753~exp=1717757353~hmac=6156b16793fd5d69d1b5574bfee75e1f7d8c4d008268a34c129796c688d82105&w=826"/>
+<img align="right" alt="Coding" width="400" src="https://avatars.githubusercontent.com/u/137730008?v=4&size=64"/>
 
 
 
