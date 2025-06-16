@@ -2,16 +2,6 @@
 <h1 align="center">Hi 👋, I'm Imad Eddine El hadjmoussa</h1>
 <h3 align="center">Full Stack Developer & Computer Science Student Based in Algeria</h3>
 
-<img 
-  align="right" 
-  style="border-radius: 50%;" 
-  alt="Coding" 
-  width="400" 
-  src="https://avatars.githubusercontent.com/u/137730008?v=4"
-/>
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imad-elhadjmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="imad-elhadjmoussa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
